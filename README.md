@@ -5,7 +5,7 @@ This is a restful API which returns the country data of a specific IP address.
 
 * First of all clone the project:
 ```
-git clone https://github.com/EngRobot33/IP-Country-Lookup
+git clone https://github.com/HaamedKhosravii/IP-Country-Lookup
 ```
 * Then, run the application by docker compose:
 ```
@@ -16,7 +16,7 @@ sudo docker compose up --build
 
 * First of all clone the project:
 ```
-git clone https://github.com/EngRobot33/IP-Country-Lookup
+git clone https://github.com/HaamedKhosravii/IP-Country-Lookup
 ```
 * Then, we need a virtual environment you can create like this:
 ```
